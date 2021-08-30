@@ -1,5 +1,5 @@
 ### Hi I am Lisa Verma 👋
-- 🔭 I'm currently a 2nd year CSE Student at NIT Surat
+- 🔭 I'm currently a 3rd year CSE Student at NIT Surat
 - 🌱 I’m currently learning blockchain development
 - 👯 I’m looking to collaborate on any real life project
 - 📫 Reach me at linkedin
